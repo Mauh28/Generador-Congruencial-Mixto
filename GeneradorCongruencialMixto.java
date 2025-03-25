@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Realizado por Mauro Eduardo Cruz Mendez y Jorge Herrera Hipolito
 
 /**
  * Clase que implementa un Generador Congruencial Mixto (GCM).
